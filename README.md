@@ -115,8 +115,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 ```
-
-
 ## Output
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/78194419/191230665-652e4485-7213-4014-b4fe-ff132f459249.png)
